@@ -1,0 +1,34 @@
+Claro! O texto na imagem é um currículo de uma pessoa chamada Lucas Roberto. O currículo está dividido em várias seções, incluindo:
+
+1. **Formação Acadêmica**: 
+   - Curso de Análise e Desenvolvimento de Sistemas 
+   - Conclusão do Ensino Médio em 2023
+
+2. **Habilidades Técnicas**:
+   - Python (básico a intermediário)
+   - Java (básico)
+   - Angular - HTML e CSS (básico)
+   - Banco de Dados - MySQL (básico a intermediário)
+
+3. **Cursos**: 
+   - CS50X - Introduction to Computer Science (edX e Harvard University)
+   - GFT START #6 - Lógica de Programação (DIO)
+   - Introdução a SQL (Udemy)
+   - Todos com conclusão prevista para 2024
+
+4. **Habilidades Sociais**:
+   - Foco
+   - Determinação
+   - Boa comunicação
+   - Criatividade
+   - Empatia
+   - Capacidade de resolução de problemas
+   - Facilidade de socialização
+
+5. **Idiomas**: 
+   - Português (Brasil) nativo
+   - Inglês nível avançado/fluente
+
+Além disso, a imagem contém informações de contato e links para perfis em redes sociais profissionais.
+
+Se precisar de mais alguma coisa ou quiser ajuda com algo específico, é só falar!
